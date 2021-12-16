@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14377088470",
+    "project_id": "panic-test-a75a1",
+    "storage_bucket": "panic-test-a75a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14377088470:android:d8312e920838f11ed3e077",
+        "android_client_info": {
+          "package_name": "com.example.panic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14377088470-o1uujg8m6qc1k3me29gu3j7rl8kbobhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylWsg54RbJjgxZ_x7dQ9MVG3Hp2Nfb78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14377088470-o1uujg8m6qc1k3me29gu3j7rl8kbobhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
